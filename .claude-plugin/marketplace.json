@@ -1,0 +1,21 @@
+{
+  "name": "dgigafox",
+  "owner": {
+    "name": "Darren Gegantino"
+  },
+  "metadata": {
+    "description": "Darren Gegantino's Claude Code plugins."
+  },
+  "plugins": [
+    {
+      "name": "lucid",
+      "source": {
+        "source": "github",
+        "repo": "dgigafox/lucid"
+      },
+      "description": "Manually curate native Claude Code memory stores — dedup and reconcile in place (git-versioned), while holding value-contradictions for your review instead of auto-resolving them.",
+      "category": "productivity",
+      "keywords": ["memory", "curation", "git", "dreaming"]
+    }
+  ]
+}
