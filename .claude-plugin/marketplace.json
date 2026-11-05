@@ -16,6 +16,16 @@
       "description": "Manually curate native Claude Code memory stores — dedup and reconcile in place (git-versioned), while holding value-contradictions for your review instead of auto-resolving them.",
       "category": "productivity",
       "keywords": ["memory", "curation", "git", "dreaming"]
+    },
+    {
+      "name": "devteam",
+      "source": {
+        "source": "github",
+        "repo": "dgigafox/devteam"
+      },
+      "description": "Take one task to a reviewed pull request with area-owned agents — planner, builders, reviewer, QA, CI and code-review watchers — and a checkpoint at every step.",
+      "category": "development",
+      "keywords": ["agents", "implementation", "code-review", "qa", "checkpoints"]
     }
   ]
 }

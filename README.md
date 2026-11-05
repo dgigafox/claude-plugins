@@ -11,6 +11,7 @@ A catalog of Claude Code plugins. Add it once, then install any plugin listed he
 | Plugin | Install | What it does |
 |--------|---------|--------------|
 | **lucid** | `/plugin install lucid@dgigafox` | Manual, git-versioned curation of Claude Code's native per-project memory stores — dedup + reconcile safe hygiene in place, queue value-contradictions for your review. Source: [`dgigafox/lucid`](https://github.com/dgigafox/lucid). |
+| **devteam** | `/plugin install devteam@dgigafox` | Takes one task — a ticket, a Story's Sub-tasks, or plain instructions — to a reviewed PR with area-owned agents, approving the plan, each phase, the commits and the push. Run `/devteam:setup` once per repo, then `/devteam:implement`. Source: [`dgigafox/devteam`](https://github.com/dgigafox/devteam). |
 
 ## Updating
 
