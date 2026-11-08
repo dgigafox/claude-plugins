@@ -12,6 +12,7 @@ A catalog of Claude Code plugins. Add it once, then install any plugin listed he
 |--------|---------|--------------|
 | **lucid** | `/plugin install lucid@dgigafox` | Manual, git-versioned curation of Claude Code's native per-project memory stores — dedup + reconcile safe hygiene in place, queue value-contradictions for your review. Source: [`dgigafox/lucid`](https://github.com/dgigafox/lucid). |
 | **devteam** | `/plugin install devteam@dgigafox` | Takes one task — a ticket, a Story's Sub-tasks, or plain instructions — to a reviewed PR with area-owned agents, approving the plan, each phase, the commits and the push. Run `/devteam:setup` once per repo, then `/devteam:implement`. Source: [`dgigafox/devteam`](https://github.com/dgigafox/devteam). |
+| **lavish-ext** | `/plugin install lavish-ext@dgigafox` | Lavish extension. `/lavish-ext:code-walkthrough` turns a PR, branch, or diff into a plain-words, step-by-step walkthrough page: an Overview of the problem and solution, then Step 1..N with the code and why. Requires the [`lavish`](https://github.com/kunchenguid/lavish-axi) skill (`npx skills add kunchenguid/lavish-axi`). Source: [`dgigafox/lavish-ext`](https://github.com/dgigafox/lavish-ext). |
 
 ## Updating
 

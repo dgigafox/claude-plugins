@@ -26,6 +26,16 @@
       "description": "Take one task to a reviewed pull request with area-owned agents — planner, builders, reviewer, QA, CI and code-review watchers — and a checkpoint at every step.",
       "category": "development",
       "keywords": ["agents", "implementation", "code-review", "qa", "checkpoints"]
+    },
+    {
+      "name": "lavish-ext",
+      "source": {
+        "source": "github",
+        "repo": "dgigafox/lavish-ext"
+      },
+      "description": "Lavish extension: /lavish-ext:code-walkthrough turns a PR, branch, or diff into a plain-words, step-by-step walkthrough page (Overview, then Step 1..N with the code and why). Requires the lavish skill.",
+      "category": "development",
+      "keywords": ["lavish", "walkthrough", "pull-request", "knowledge-sync", "html"]
     }
   ]
 }
